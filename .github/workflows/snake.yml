@@ -1,3 +1,8 @@
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhayarawat661-cmyk/abhayarawat661-cmyk/output/github-snake.svg" width="100%" alt="Purple Contribution Snake"/>
+</div>
 name: Generate Purple Snake
 
 on:
@@ -34,8 +39,4 @@ jobs:
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhayarawat661-cmyk/abhayarawat661-cmyk/output/github-snake.svg" width="100%" alt="Purple Contribution Snake"/>
-</div>
