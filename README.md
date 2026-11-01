@@ -19,6 +19,21 @@
 * 🌱 Currently learning Machine Learning and Deep Learning.
 * 🚀 Passionate about solving real-world problems through technology.
 * 📍 Dehradun, India.
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/abhayarawat661-cmyk">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+**💻 Explore my repositories to see my coding journey, programming practice and AI/ML experiments.**
+
+</div>
 
 ---
 
