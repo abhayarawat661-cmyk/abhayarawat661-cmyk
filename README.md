@@ -70,3 +70,9 @@ Exploring classification, regression and predictive modelling.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=100&section=footer"/>
 
 </div>
+
+
+## 📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayarawat661-cmyk&bg_color=0d1117&color=00d4ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
