@@ -1,14 +1,8 @@
 <div align="center">
 
-<!-- Profile Views -->
-
 <img src="https://komarev.com/ghpvc/?username=abhayarawat661-cmyk&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
 
-<!-- Header -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=200&section=header&text=ABHAY%20SINGH%20RAWAT&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=16" width="100%"/>
-
-<!-- Typing Animation -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;C%2B%2B+Programmer;Building+Intelligent+Solutions;Turning+Ideas+Into+Reality" />
 
@@ -40,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-**Pandas | NumPy | Scikit-learn | Matplotlib**
+Pandas | NumPy | Scikit-learn | Matplotlib
 
 ### Web Development & Tools
 
@@ -133,10 +127,22 @@
 
 ---
 
+## 🐍 Purple Contribution Snake
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhayarawat661-cmyk/abhayarawat661-cmyk/output/github-snake.svg" width="100%" alt="Purple Contribution Snake"/>
 
-**Thanks for visiting my profile! 🚀**
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+*Let's build something amazing together.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=100&section=footer" width="100%"/>
 
 </div>
