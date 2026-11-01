@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=abhayarawat661-cmyk&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=200&section=header&text=ABHAY%20SINGH%20RAWAT&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=16" width="100%"/>
