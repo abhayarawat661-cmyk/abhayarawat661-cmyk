@@ -126,6 +126,14 @@ Pandas | NumPy | Scikit-learn | Matplotlib
 </div>
 
 ---
+## 💭 Daily Developer Motivation
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
 
 ## 🐍 Purple Contribution Snake
 
@@ -144,5 +152,19 @@ Pandas | NumPy | Scikit-learn | Matplotlib
 *Let's build something amazing together.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=100&section=footer" width="100%"/>
+
+</div>
+
+## ⚡ Developer Identity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-8A2BE2?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%2B%2B-Developer-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Active-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
